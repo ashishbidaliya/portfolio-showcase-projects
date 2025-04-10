@@ -1,0 +1,458 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Ashish Bidaliya! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm None, a highly advanced AI chatbot with up-to-date information from the internet. I'm here to provide you with accurate and helpful responses to your questions."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again!"
+    },
+    {
+        "role": "user",
+        "content": "who are yo?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Lexor, a highly advanced AI chatbot with up-to-date information from the internet."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "clear"
+    },
+    {
+        "role": "assistant",
+        "content": "Let's start fresh!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "what's my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Ashish Bidaliya."
+    },
+    {
+        "role": "user",
+        "content": "how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thanks!"
+    },
+    {
+        "role": "user",
+        "content": "who is elon?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO of Neuralink, and CEO of The Boring Company. He is also the founder and CEO of Tesla, Inc."
+    },
+    {
+        "role": "user",
+        "content": "what did i ask you?"
+    },
+    {
+        "role": "assistant",
+        "content": "You asked me \"who is elon?\""
+    },
+    {
+        "role": "user",
+        "content": "okay"
+    },
+    {
+        "role": "assistant",
+        "content": "Okay!"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Ashish Bidaliya!"
+    },
+    {
+        "role": "user",
+        "content": "what's the time like?"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 19:02:47."
+    },
+    {
+        "role": "user",
+        "content": "give me in 12 hour format"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 7:02:47 PM."
+    },
+    {
+        "role": "user",
+        "content": "remember alsways give me in this format"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember to provide the time in 12-hour format from now on."
+    },
+    {
+        "role": "user",
+        "content": "so what's the time"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 7:03:28 PM."
+    },
+    {
+        "role": "user",
+        "content": "whenever i say hello, you replay with my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! So, whenever you say \"hello\", I'll respond with \"Ashish Bidaliya\"."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Ashish Bidaliya!"
+    },
+    {
+        "role": "user",
+        "content": "no mean greet me saying my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Ashish Bidaliya!"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Ashish Bidaliya!"
+    },
+    {
+        "role": "user",
+        "content": "ok"
+    },
+    {
+        "role": "assistant",
+        "content": "Ok!"
+    },
+    {
+        "role": "user",
+        "content": "what's today daye"
+    },
+    {
+        "role": "assistant",
+        "content": "Today is Thursday."
+    },
+    {
+        "role": "user",
+        "content": "date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is April 3, 2025."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Ashish Bidaliya!"
+    },
+    {
+        "role": "user",
+        "content": "who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Lexor, a highly advanced AI chatbot with up-to-date information from the internet."
+    },
+    {
+        "role": "user",
+        "content": "do you know caryminti?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Caryn Marjorie, a popular YouTuber and streamer known for her gaming content and entertaining personality."
+    },
+    {
+        "role": "user",
+        "content": "carry minati youtuber "
+    },
+    {
+        "role": "assistant",
+        "content": "You're talking about CarryMinati, a popular Indian YouTuber and streamer known for his gaming content, commentary, and entertaining videos."
+    },
+    {
+        "role": "user",
+        "content": "yes "
+    },
+    {
+        "role": "assistant",
+        "content": "He's a well-known figure in the Indian gaming and YouTube community!"
+    },
+    {
+        "role": "user",
+        "content": "what teams playing todays IPL"
+    },
+    {
+        "role": "assistant",
+        "content": "Today's IPL match is between Rajasthan Royals and Delhi Capitals."
+    },
+    {
+        "role": "user",
+        "content": "you are wrong"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake. Can you please tell me which teams are playing today's IPL match?"
+    },
+    {
+        "role": "user",
+        "content": "what date"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is April 3, 2025."
+    },
+    {
+        "role": "user",
+        "content": "i mean at what date these team played\\"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the confusion. Since I don't have real-time information about specific IPL matches, I couldn't provide the correct information earlier. If you provide me with the correct date, I can try to tell you which teams played on that day."
+    },
+    {
+        "role": "user",
+        "content": "tell about tea"
+    },
+    {
+        "role": "assistant",
+        "content": "Tea! It's a popular beverage made from the leaves, buds, or stems of the Camellia sinensis plant. There are many varieties of tea, including black, green, white, oolong, and herbal. Tea is often enjoyed for its flavor, aroma, and potential health benefits."
+    },
+    {
+        "role": "user",
+        "content": "excel formulas"
+    },
+    {
+        "role": "assistant",
+        "content": "Excel formulas! There are many useful formulas in Excel, but here are some common ones:\n\n1. SUM: =SUM(range) - adds up a range of cells\n2. AVERAGE: =AVERAGE(range) - calculates the average of a range of cells\n3. COUNT: =COUNT(range) - counts the number of cells in a range that contain numbers\n4. IF: =IF(logical_test, [value_if_true], [value_if_false]) - tests a condition and returns one value if true and another value if false\n5. VLOOKUP: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]) - looks up a value in a table and returns a value from a corresponding column\n\nThese are just a few examples. Is there a specific formula you're looking for?"
+    },
+    {
+        "role": "user",
+        "content": "tell me more"
+    },
+    {
+        "role": "assistant",
+        "content": "Here are some more Excel formulas:\n\n1. MAX/MIN: =MAX(range) / =MIN(range) - returns the maximum or minimum value in a range of cells\n2. IFERROR: =IFERROR(cell, value_if_error) - returns a value if the cell contains an error\n3. INDEX/MATCH: =INDEX(range, MATCH(lookup_value, lookup_array, [match_type])) - looks up a value in a table and returns a value from a corresponding column\n4. LEN: =LEN(text) - returns the length of a text string\n5. LOWER/UPPER: =LOWER(text) / =UPPER(text) - converts text to lowercase or uppercase\n6. CONCATENATE: =CONCATENATE(text1, [text2], ...) - combines multiple text strings into one\n7. DAY/MONTH/YEAR: =DAY(date) / =MONTH(date) / =YEAR(date) - extracts the day, month, or year from a date\n8. HOUR/MINUTE/SECOND: =HOUR(time) / =MINUTE(time) / =SECOND(time) - extracts the hour, minute, or second from a time\n9. RAND: =RAND() - generates a random number\n10. ROUND: =ROUND(number, num_digits) - rounds a number to a specified number of digits\n\nThese are just a few examples of the many formulas available in Excel. Is there a specific formula you're looking for or a problem you're trying to solve?"
+    },
+    {
+        "role": "user",
+        "content": "tell me which team gonna play todays ipl "
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have real-time information about today's IPL schedule. However, I can suggest some ways for you to find out which teams are playing today's IPL match. You can check the official IPL website, IPL social media handles, or sports news websites for the latest schedule and updates."
+    },
+    {
+        "role": "user",
+        "content": "3 april 2025"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the IPL schedule for 2025, on April 3, 2025, the match is between Chennai Super Kings and Kolkata Knight Riders."
+    },
+    {
+        "role": "user",
+        "content": "dhoni ne kitne run banaye"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have real-time data, but I can tell you that I don't have information about a specific IPL match on April 3, 2025, or MS Dhoni's performance in that match."
+    },
+    {
+        "role": "user",
+        "content": "which team played on 2nd april 2025"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the IPL schedule for 2025, on April 2, 2025, the match was between Mumbai Indians and Royal Challengers Bangalore."
+    },
+    {
+        "role": "user",
+        "content": "what is IPL"
+    },
+    {
+        "role": "assistant",
+        "content": "IPL stands for Indian Premier League, which is a professional Twenty20 cricket league in India. It's one of the most popular and competitive T20 leagues in the world, featuring eight teams representing different cities in India. The league was founded in 2008 and is organized by the Board of Control for Cricket in India (BCCI). The IPL typically takes place between March and May every year, with the final match determining the champion."
+    },
+    {
+        "role": "user",
+        "content": "when was it first started"
+    },
+    {
+        "role": "assistant",
+        "content": "The Indian Premier League (IPL) was first started on April 18, 2008."
+    },
+    {
+        "role": "user",
+        "content": "who is ashish bidaliya"
+    },
+    {
+        "role": "assistant",
+        "content": "Ashish Bidaliya is you! According to the search results I have, you are a Dehradun-based male singer who speaks Hindi and English. You are available for work in anywhere in India. You have a presence on various social media platforms, including Facebook and YouTube."
+    },
+    {
+        "role": "user",
+        "content": "which teams are playing todays IPL"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the IPL schedule for 2025, today's IPL match is between Sunrisers Hyderabad (SRH) and Kolkata Knight Riders (KKR) at the Eden Gardens, Kolkata."
+    },
+    {
+        "role": "user",
+        "content": "what's the score right now"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a large language model, I don't have have real-time access to the current score of the IPL match. However, I can suggest some ways for you to find out the current score. You can check the official IPL website, IPL social media handles, or sports news websites for the latest score updates."
+    },
+    {
+        "role": "user",
+        "content": "what was the score of yesterdays match"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results I have, yesterday's match was between Gujarat Titans and New Zealand, and Gujarat Titans won by 8 wickets. The score was New Zealand 292/8 and Pakistan 208, with New Zealand winning by 84 runs."
+    },
+    {
+        "role": "user",
+        "content": "i mean in IPL"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake. Since I don't have real-time data, I don't have information about a specific IPL match on April 2, 2025, or its score."
+    },
+    {
+        "role": "user",
+        "content": "tell me the latest new of today"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results I have, here are some of the latest news headlines for today:\n\n* \"Latest News \u00b7 This is how Trump's 'Liberation Day' tariffs will roll out in India \u00b7 'China took 4,000 km, we're cutting cake,' says Rahul; BJP takes 'soup' jibe.\"\n* \"US senator gives record-breaking 24-hour speech against Donald Trump \u00b7 Waqf Bill in Lok Sabha today; INDIA bloc holds strategy meet, BJP issues whip.\"\n* \"Rajya Sabha Waqf Bill battle tighter, but NDA may edge out Oppn 130-106 \u00b7 Waqf Bill: More than 12 hrs of debate, and a washroom break that got Cong all wet.\"\n* \"Supreme Court stays tree felling in Hyderabad's Kancha Gachibowli \u00b7 Samsung union issues strike notice demanding reinstatement of 23 suspended workers.\"\n\nPlease note that these news headlines are based on the search results I have and may not be up-to-date or real-time."
+    },
+    {
+        "role": "user",
+        "content": "what is the networth of elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results I have, as of April 3, 2025, Elon Musk's net worth is approximately $377.6 billion."
+    },
+    {
+        "role": "user",
+        "content": "what's the time right now"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 8:03:28 PM."
+    },
+    {
+        "role": "user",
+        "content": "wrong"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake. According to my previous response, the current time is 8:03:39 PM."
+    },
+    {
+        "role": "user",
+        "content": "what is the time right now"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 8:03:50 PM."
+    },
+    {
+        "role": "user",
+        "content": "IST"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time in IST (Indian Standard Time) is 8:03:50 PM."
+    },
+    {
+        "role": "user",
+        "content": "exit"
+    },
+    {
+        "role": "assistant",
+        "content": "The word \"exit\" can have multiple meanings. According to the search results I have, \"exit\" can refer to:\n\n1. A door or passage that allows people to leave a building, room, or vehicle.\n2. The act of leaving or going out of a place.\n3. Death or the end of life.\n4. In theater, the act of an actor leaving the stage.\n\nWhich meaning of \"exit\" are you referring to?"
+    },
+    {
+        "role": "user",
+        "content": "what's the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 8:03:28 PM."
+    }
+]
